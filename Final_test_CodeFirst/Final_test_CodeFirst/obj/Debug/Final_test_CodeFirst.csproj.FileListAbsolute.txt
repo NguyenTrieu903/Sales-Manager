@@ -1,0 +1,76 @@
+D:\SV2_1\Lập Trình Windows\CodeFirst\Final_test_CodeFirst\Final_test_CodeFirst\bin\Debug\Final_test_CodeFirst.exe.config
+D:\SV2_1\Lập Trình Windows\CodeFirst\Final_test_CodeFirst\Final_test_CodeFirst\bin\Debug\Final_test_CodeFirst.exe
+D:\SV2_1\Lập Trình Windows\CodeFirst\Final_test_CodeFirst\Final_test_CodeFirst\bin\Debug\Final_test_CodeFirst.pdb
+D:\SV2_1\Lập Trình Windows\CodeFirst\Final_test_CodeFirst\Final_test_CodeFirst\bin\Debug\BussniessLogic.dll
+D:\SV2_1\Lập Trình Windows\CodeFirst\Final_test_CodeFirst\Final_test_CodeFirst\bin\Debug\DataAccessLayer.dll
+D:\SV2_1\Lập Trình Windows\CodeFirst\Final_test_CodeFirst\Final_test_CodeFirst\bin\Debug\EntityFramework.dll
+D:\SV2_1\Lập Trình Windows\CodeFirst\Final_test_CodeFirst\Final_test_CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+D:\SV2_1\Lập Trình Windows\CodeFirst\Final_test_CodeFirst\Final_test_CodeFirst\bin\Debug\BussniessLogic.pdb
+D:\SV2_1\Lập Trình Windows\CodeFirst\Final_test_CodeFirst\Final_test_CodeFirst\bin\Debug\BussniessLogic.dll.config
+D:\SV2_1\Lập Trình Windows\CodeFirst\Final_test_CodeFirst\Final_test_CodeFirst\bin\Debug\DataAccessLayer.pdb
+D:\SV2_1\Lập Trình Windows\CodeFirst\Final_test_CodeFirst\Final_test_CodeFirst\bin\Debug\DataAccessLayer.dll.config
+D:\SV2_1\Lập Trình Windows\CodeFirst\Final_test_CodeFirst\Final_test_CodeFirst\bin\Debug\EntityFramework.xml
+D:\SV2_1\Lập Trình Windows\CodeFirst\Final_test_CodeFirst\Final_test_CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+D:\SV2_1\Lập Trình Windows\CodeFirst\Final_test_CodeFirst\Final_test_CodeFirst\obj\Debug\Final_test_CodeFirst.csproj.AssemblyReference.cache
+D:\SV2_1\Lập Trình Windows\CodeFirst\Final_test_CodeFirst\Final_test_CodeFirst\obj\Debug\Final_test_CodeFirst.frmChitietHD.resources
+D:\SV2_1\Lập Trình Windows\CodeFirst\Final_test_CodeFirst\Final_test_CodeFirst\obj\Debug\Final_test_CodeFirst.Properties.Resources.resources
+D:\SV2_1\Lập Trình Windows\CodeFirst\Final_test_CodeFirst\Final_test_CodeFirst\obj\Debug\Final_test_CodeFirst.csproj.GenerateResource.cache
+D:\SV2_1\Lập Trình Windows\CodeFirst\Final_test_CodeFirst\Final_test_CodeFirst\obj\Debug\Final_test_CodeFirst.csproj.CoreCompileInputs.cache
+D:\SV2_1\Lập Trình Windows\CodeFirst\Final_test_CodeFirst\Final_test_CodeFirst\obj\Debug\Final_test_CodeFirst.csproj.CopyComplete
+D:\SV2_1\Lập Trình Windows\CodeFirst\Final_test_CodeFirst\Final_test_CodeFirst\obj\Debug\Final_test_CodeFirst.exe
+D:\SV2_1\Lập Trình Windows\CodeFirst\Final_test_CodeFirst\Final_test_CodeFirst\obj\Debug\Final_test_CodeFirst.pdb
+D:\SV2_1\Lập Trình Windows\CodeFirst\Final_test_CodeFirst\Final_test_CodeFirst\obj\Debug\Final_test_CodeFirst.frmHoaDon.resources
+D:\SV2_1\Lập Trình Windows\CodeFirst\Final_test_CodeFirst\Final_test_CodeFirst\obj\Debug\Final_test_CodeFirst.frmMain.resources
+D:\SV2_1\Lập Trình Windows\CodeFirst\Final_test_CodeFirst\Final_test_CodeFirst\obj\Debug\Final_test_CodeFirst.Generally.resources
+D:\SV2_1\Lập Trình Windows\CodeFirst\Final_test_CodeFirst\Final_test_CodeFirst\bin\Debug\BouncyCastle.Crypto.dll
+D:\SV2_1\Lập Trình Windows\CodeFirst\Final_test_CodeFirst\Final_test_CodeFirst\bin\Debug\itextsharp.dll
+D:\SV2_1\Lập Trình Windows\CodeFirst\Final_test_CodeFirst\Final_test_CodeFirst\bin\Debug\itextsharp.xml
+D:\SV2_1\Lập Trình Windows\CodeFirst\Final_test_CodeFirst\Final_test_CodeFirst\bin\Debug\ExcelDataReader.dll
+D:\SV2_1\Lập Trình Windows\CodeFirst\Final_test_CodeFirst\Final_test_CodeFirst\bin\Debug\ExcelDataReader.pdb
+D:\SV2_1\Lập Trình Windows\CodeFirst\Final_test_CodeFirst\Final_test_CodeFirst\bin\Debug\ExcelDataReader.xml
+D:\SV2_1\Lập Trình Windows\CodeFirst\Final_test_CodeFirst\Final_test_CodeFirst\obj\Debug\Final_test_CodeFirst.frmHangHoa.resources
+D:\SV2_1\Lập Trình Windows\CodeFirst\Final_test_CodeFirst\Final_test_CodeFirst\obj\Debug\Final_test_CodeFirst.frmNhaCungCap.resources
+D:\SV2_1\Lập Trình Windows\CodeFirst\Final_test_CodeFirst\Final_test_CodeFirst\obj\Debug\Final_test_CodeFirst.frmNhanVien.resources
+D:\SV2_1\Lập Trình Windows\CodeFirst\Final_test_CodeFirst\Final_test_CodeFirst\obj\Debug\Final_test_CodeFirst.frmKH.resources
+D:\SV2_1\Lập Trình Windows\CodeFirst\Final_test_CodeFirst\Final_test_CodeFirst\obj\Debug\Final_test_CodeFirst.frmLogin.resources
+D:\SV2_1\Lập Trình Windows\CodeFirst\Final_test_CodeFirst\Final_test_CodeFirst\obj\Debug\Final_test_CodeFirst.frmTaoTK.resources
+D:\SV2_1\Lập Trình Windows\CodeFirst\Final_test_CodeFirst\Final_test_CodeFirst\obj\Debug\Final_test_CodeFirst.frmDoiMK.resources
+D:\SV2_1\Lập Trình Windows\CodeFirst\Final_test_CodeFirst\Final_test_CodeFirst\obj\Debug\Final_test_CodeFirst.frmDoanhThu.resources
+D:\SV2_1\Lập Trình Windows\CodeFirst\Quản lý bán hàng_Nhóm 5\Final_test_CodeFirst\Final_test_CodeFirst\bin\Debug\Final_test_CodeFirst.exe.config
+D:\SV2_1\Lập Trình Windows\CodeFirst\Quản lý bán hàng_Nhóm 5\Final_test_CodeFirst\Final_test_CodeFirst\bin\Debug\Final_test_CodeFirst.exe
+D:\SV2_1\Lập Trình Windows\CodeFirst\Quản lý bán hàng_Nhóm 5\Final_test_CodeFirst\Final_test_CodeFirst\bin\Debug\Final_test_CodeFirst.pdb
+D:\SV2_1\Lập Trình Windows\CodeFirst\Quản lý bán hàng_Nhóm 5\Final_test_CodeFirst\Final_test_CodeFirst\bin\Debug\BouncyCastle.Crypto.dll
+D:\SV2_1\Lập Trình Windows\CodeFirst\Quản lý bán hàng_Nhóm 5\Final_test_CodeFirst\Final_test_CodeFirst\bin\Debug\BussniessLogic.dll
+D:\SV2_1\Lập Trình Windows\CodeFirst\Quản lý bán hàng_Nhóm 5\Final_test_CodeFirst\Final_test_CodeFirst\bin\Debug\DataAccessLayer.dll
+D:\SV2_1\Lập Trình Windows\CodeFirst\Quản lý bán hàng_Nhóm 5\Final_test_CodeFirst\Final_test_CodeFirst\bin\Debug\EntityFramework.dll
+D:\SV2_1\Lập Trình Windows\CodeFirst\Quản lý bán hàng_Nhóm 5\Final_test_CodeFirst\Final_test_CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+D:\SV2_1\Lập Trình Windows\CodeFirst\Quản lý bán hàng_Nhóm 5\Final_test_CodeFirst\Final_test_CodeFirst\bin\Debug\ExcelDataReader.dll
+D:\SV2_1\Lập Trình Windows\CodeFirst\Quản lý bán hàng_Nhóm 5\Final_test_CodeFirst\Final_test_CodeFirst\bin\Debug\itextsharp.dll
+D:\SV2_1\Lập Trình Windows\CodeFirst\Quản lý bán hàng_Nhóm 5\Final_test_CodeFirst\Final_test_CodeFirst\bin\Debug\BussniessLogic.pdb
+D:\SV2_1\Lập Trình Windows\CodeFirst\Quản lý bán hàng_Nhóm 5\Final_test_CodeFirst\Final_test_CodeFirst\bin\Debug\BussniessLogic.dll.config
+D:\SV2_1\Lập Trình Windows\CodeFirst\Quản lý bán hàng_Nhóm 5\Final_test_CodeFirst\Final_test_CodeFirst\bin\Debug\DataAccessLayer.pdb
+D:\SV2_1\Lập Trình Windows\CodeFirst\Quản lý bán hàng_Nhóm 5\Final_test_CodeFirst\Final_test_CodeFirst\bin\Debug\DataAccessLayer.dll.config
+D:\SV2_1\Lập Trình Windows\CodeFirst\Quản lý bán hàng_Nhóm 5\Final_test_CodeFirst\Final_test_CodeFirst\bin\Debug\EntityFramework.xml
+D:\SV2_1\Lập Trình Windows\CodeFirst\Quản lý bán hàng_Nhóm 5\Final_test_CodeFirst\Final_test_CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+D:\SV2_1\Lập Trình Windows\CodeFirst\Quản lý bán hàng_Nhóm 5\Final_test_CodeFirst\Final_test_CodeFirst\bin\Debug\ExcelDataReader.pdb
+D:\SV2_1\Lập Trình Windows\CodeFirst\Quản lý bán hàng_Nhóm 5\Final_test_CodeFirst\Final_test_CodeFirst\bin\Debug\ExcelDataReader.xml
+D:\SV2_1\Lập Trình Windows\CodeFirst\Quản lý bán hàng_Nhóm 5\Final_test_CodeFirst\Final_test_CodeFirst\bin\Debug\itextsharp.xml
+D:\SV2_1\Lập Trình Windows\CodeFirst\Quản lý bán hàng_Nhóm 5\Final_test_CodeFirst\Final_test_CodeFirst\obj\Debug\Final_test_CodeFirst.csproj.AssemblyReference.cache
+D:\SV2_1\Lập Trình Windows\CodeFirst\Quản lý bán hàng_Nhóm 5\Final_test_CodeFirst\Final_test_CodeFirst\obj\Debug\Final_test_CodeFirst.frmChitietHD.resources
+D:\SV2_1\Lập Trình Windows\CodeFirst\Quản lý bán hàng_Nhóm 5\Final_test_CodeFirst\Final_test_CodeFirst\obj\Debug\Final_test_CodeFirst.frmDoanhThu.resources
+D:\SV2_1\Lập Trình Windows\CodeFirst\Quản lý bán hàng_Nhóm 5\Final_test_CodeFirst\Final_test_CodeFirst\obj\Debug\Final_test_CodeFirst.frmDoiMK.resources
+D:\SV2_1\Lập Trình Windows\CodeFirst\Quản lý bán hàng_Nhóm 5\Final_test_CodeFirst\Final_test_CodeFirst\obj\Debug\Final_test_CodeFirst.frmHangHoa.resources
+D:\SV2_1\Lập Trình Windows\CodeFirst\Quản lý bán hàng_Nhóm 5\Final_test_CodeFirst\Final_test_CodeFirst\obj\Debug\Final_test_CodeFirst.frmHoaDon.resources
+D:\SV2_1\Lập Trình Windows\CodeFirst\Quản lý bán hàng_Nhóm 5\Final_test_CodeFirst\Final_test_CodeFirst\obj\Debug\Final_test_CodeFirst.frmKH.resources
+D:\SV2_1\Lập Trình Windows\CodeFirst\Quản lý bán hàng_Nhóm 5\Final_test_CodeFirst\Final_test_CodeFirst\obj\Debug\Final_test_CodeFirst.frmLogin.resources
+D:\SV2_1\Lập Trình Windows\CodeFirst\Quản lý bán hàng_Nhóm 5\Final_test_CodeFirst\Final_test_CodeFirst\obj\Debug\Final_test_CodeFirst.frmMain.resources
+D:\SV2_1\Lập Trình Windows\CodeFirst\Quản lý bán hàng_Nhóm 5\Final_test_CodeFirst\Final_test_CodeFirst\obj\Debug\Final_test_CodeFirst.frmNhaCungCap.resources
+D:\SV2_1\Lập Trình Windows\CodeFirst\Quản lý bán hàng_Nhóm 5\Final_test_CodeFirst\Final_test_CodeFirst\obj\Debug\Final_test_CodeFirst.frmNhanVien.resources
+D:\SV2_1\Lập Trình Windows\CodeFirst\Quản lý bán hàng_Nhóm 5\Final_test_CodeFirst\Final_test_CodeFirst\obj\Debug\Final_test_CodeFirst.frmTaoTK.resources
+D:\SV2_1\Lập Trình Windows\CodeFirst\Quản lý bán hàng_Nhóm 5\Final_test_CodeFirst\Final_test_CodeFirst\obj\Debug\Final_test_CodeFirst.Generally.resources
+D:\SV2_1\Lập Trình Windows\CodeFirst\Quản lý bán hàng_Nhóm 5\Final_test_CodeFirst\Final_test_CodeFirst\obj\Debug\Final_test_CodeFirst.Properties.Resources.resources
+D:\SV2_1\Lập Trình Windows\CodeFirst\Quản lý bán hàng_Nhóm 5\Final_test_CodeFirst\Final_test_CodeFirst\obj\Debug\Final_test_CodeFirst.csproj.GenerateResource.cache
+D:\SV2_1\Lập Trình Windows\CodeFirst\Quản lý bán hàng_Nhóm 5\Final_test_CodeFirst\Final_test_CodeFirst\obj\Debug\Final_test_CodeFirst.csproj.CoreCompileInputs.cache
+D:\SV2_1\Lập Trình Windows\CodeFirst\Quản lý bán hàng_Nhóm 5\Final_test_CodeFirst\Final_test_CodeFirst\obj\Debug\Final_test_CodeFirst.csproj.CopyComplete
+D:\SV2_1\Lập Trình Windows\CodeFirst\Quản lý bán hàng_Nhóm 5\Final_test_CodeFirst\Final_test_CodeFirst\obj\Debug\Final_test_CodeFirst.exe
+D:\SV2_1\Lập Trình Windows\CodeFirst\Quản lý bán hàng_Nhóm 5\Final_test_CodeFirst\Final_test_CodeFirst\obj\Debug\Final_test_CodeFirst.pdb

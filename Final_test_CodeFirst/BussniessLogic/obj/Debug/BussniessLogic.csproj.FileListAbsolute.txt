@@ -1,0 +1,30 @@
+D:\SV2_1\Lập Trình Windows\CodeFirst\Final_test_CodeFirst\BussniessLogic\bin\Debug\BussniessLogic.dll.config
+D:\SV2_1\Lập Trình Windows\CodeFirst\Final_test_CodeFirst\BussniessLogic\bin\Debug\BussniessLogic.dll
+D:\SV2_1\Lập Trình Windows\CodeFirst\Final_test_CodeFirst\BussniessLogic\bin\Debug\BussniessLogic.pdb
+D:\SV2_1\Lập Trình Windows\CodeFirst\Final_test_CodeFirst\BussniessLogic\bin\Debug\DataAccessLayer.dll
+D:\SV2_1\Lập Trình Windows\CodeFirst\Final_test_CodeFirst\BussniessLogic\bin\Debug\EntityFramework.dll
+D:\SV2_1\Lập Trình Windows\CodeFirst\Final_test_CodeFirst\BussniessLogic\bin\Debug\EntityFramework.SqlServer.dll
+D:\SV2_1\Lập Trình Windows\CodeFirst\Final_test_CodeFirst\BussniessLogic\bin\Debug\DataAccessLayer.pdb
+D:\SV2_1\Lập Trình Windows\CodeFirst\Final_test_CodeFirst\BussniessLogic\bin\Debug\DataAccessLayer.dll.config
+D:\SV2_1\Lập Trình Windows\CodeFirst\Final_test_CodeFirst\BussniessLogic\bin\Debug\EntityFramework.xml
+D:\SV2_1\Lập Trình Windows\CodeFirst\Final_test_CodeFirst\BussniessLogic\bin\Debug\EntityFramework.SqlServer.xml
+D:\SV2_1\Lập Trình Windows\CodeFirst\Final_test_CodeFirst\BussniessLogic\obj\Debug\BussniessLogic.csproj.AssemblyReference.cache
+D:\SV2_1\Lập Trình Windows\CodeFirst\Final_test_CodeFirst\BussniessLogic\obj\Debug\BussniessLogic.csproj.CoreCompileInputs.cache
+D:\SV2_1\Lập Trình Windows\CodeFirst\Final_test_CodeFirst\BussniessLogic\obj\Debug\BussniessLogic.csproj.CopyComplete
+D:\SV2_1\Lập Trình Windows\CodeFirst\Final_test_CodeFirst\BussniessLogic\obj\Debug\BussniessLogic.dll
+D:\SV2_1\Lập Trình Windows\CodeFirst\Final_test_CodeFirst\BussniessLogic\obj\Debug\BussniessLogic.pdb
+D:\SV2_1\Lập Trình Windows\CodeFirst\Quản lý bán hàng_Nhóm 5\Final_test_CodeFirst\BussniessLogic\bin\Debug\BussniessLogic.dll.config
+D:\SV2_1\Lập Trình Windows\CodeFirst\Quản lý bán hàng_Nhóm 5\Final_test_CodeFirst\BussniessLogic\bin\Debug\BussniessLogic.dll
+D:\SV2_1\Lập Trình Windows\CodeFirst\Quản lý bán hàng_Nhóm 5\Final_test_CodeFirst\BussniessLogic\bin\Debug\BussniessLogic.pdb
+D:\SV2_1\Lập Trình Windows\CodeFirst\Quản lý bán hàng_Nhóm 5\Final_test_CodeFirst\BussniessLogic\bin\Debug\DataAccessLayer.dll
+D:\SV2_1\Lập Trình Windows\CodeFirst\Quản lý bán hàng_Nhóm 5\Final_test_CodeFirst\BussniessLogic\bin\Debug\EntityFramework.dll
+D:\SV2_1\Lập Trình Windows\CodeFirst\Quản lý bán hàng_Nhóm 5\Final_test_CodeFirst\BussniessLogic\bin\Debug\EntityFramework.SqlServer.dll
+D:\SV2_1\Lập Trình Windows\CodeFirst\Quản lý bán hàng_Nhóm 5\Final_test_CodeFirst\BussniessLogic\bin\Debug\DataAccessLayer.pdb
+D:\SV2_1\Lập Trình Windows\CodeFirst\Quản lý bán hàng_Nhóm 5\Final_test_CodeFirst\BussniessLogic\bin\Debug\DataAccessLayer.dll.config
+D:\SV2_1\Lập Trình Windows\CodeFirst\Quản lý bán hàng_Nhóm 5\Final_test_CodeFirst\BussniessLogic\bin\Debug\EntityFramework.xml
+D:\SV2_1\Lập Trình Windows\CodeFirst\Quản lý bán hàng_Nhóm 5\Final_test_CodeFirst\BussniessLogic\bin\Debug\EntityFramework.SqlServer.xml
+D:\SV2_1\Lập Trình Windows\CodeFirst\Quản lý bán hàng_Nhóm 5\Final_test_CodeFirst\BussniessLogic\obj\Debug\BussniessLogic.csproj.AssemblyReference.cache
+D:\SV2_1\Lập Trình Windows\CodeFirst\Quản lý bán hàng_Nhóm 5\Final_test_CodeFirst\BussniessLogic\obj\Debug\BussniessLogic.csproj.CoreCompileInputs.cache
+D:\SV2_1\Lập Trình Windows\CodeFirst\Quản lý bán hàng_Nhóm 5\Final_test_CodeFirst\BussniessLogic\obj\Debug\BussniessLogic.csproj.CopyComplete
+D:\SV2_1\Lập Trình Windows\CodeFirst\Quản lý bán hàng_Nhóm 5\Final_test_CodeFirst\BussniessLogic\obj\Debug\BussniessLogic.dll
+D:\SV2_1\Lập Trình Windows\CodeFirst\Quản lý bán hàng_Nhóm 5\Final_test_CodeFirst\BussniessLogic\obj\Debug\BussniessLogic.pdb
